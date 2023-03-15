@@ -9,8 +9,11 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+    
       <main>
+      <div>
+    <p>SAlut a tous les amis </p>
+      </div>
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
